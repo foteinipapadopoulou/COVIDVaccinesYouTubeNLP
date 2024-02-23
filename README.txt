@@ -1,0 +1,2 @@
+The main implementation of the project is displayed in the `main.ipynb` notebook since the Kaggle GPU resources was used for the sentiment analysis and topic modeling.
+The code used to extract and filter the dataset is at the `data` folder.

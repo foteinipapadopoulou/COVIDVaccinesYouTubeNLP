@@ -1,0 +1,6 @@
+bertopic
+pandas
+fasttext
+openai
+emojis
+transformers
